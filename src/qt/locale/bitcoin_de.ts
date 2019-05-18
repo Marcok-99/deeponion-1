@@ -35,7 +35,7 @@
     </message>
     <message>
         <source>&amp;Export</source>
-        <translation>E&amp;xportieren</translation>
+        <translation>&amp;Exportieren</translation>
     </message>
     <message>
         <source>&amp;Delete</source>
@@ -55,7 +55,7 @@
     </message>
     <message>
         <source>Sending addresses</source>
-        <translation>Sender_in Addresse</translation>
+        <translation>Sendeadressen</translation>
     </message>
     <message>
         <source>Receiving addresses</source>
